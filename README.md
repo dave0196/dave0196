@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dave0196
-- 👀 I’m interested in programming languages, math, and game development 
+- 👋 Hi, my name is Dave, aka David
+- 👀 I'm an aspiring developer with interests in Cybersecurity and Mathematics
 - 🌱 I’m currently learning C++, Java, VB.NET and Python. 
 - Welcome to my profile!
 <!---
