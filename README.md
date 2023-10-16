@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Dave, aka David
-- 👀 I'm an aspiring developer with interests in Cybersecurity and Mathematics
+- 👋 Hi, my name is Dave, I also go by David
+- 👀 I'm a developer with interests in Cybersecurity and Mathematics
 - 🌱 I’m currently learning C++, Java, VB.NET and Python. 
 - Welcome to my profile!
 <!---
