@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Dave (aka David)
-- 👀 I'm a developer with interests in... (surprise! surprise!) Computer Science, Mathematics, Cybersecurity, Game Design and Physics.
+- 👀 I'm a developer with interests in... (surprise! surprise!): Computer Science, Mathematics, Cybersecurity, Game Design and Physics.
 - 🌱 The programming languages and frameworks I'm experienced with are Java, C++, Mainframe Assembly & JCL (z/OS), VB.NET, ASP.NET (MVC & a bit of REST) & finally, Python. 
 - Welcome to my profile!
 <!---
