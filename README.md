@@ -1,4 +1,4 @@
-- 👋 Hi earthling, my name is Dave, but you can also call me David.
+- 👋 Hi earthling, my name is Dave, but I also go by David.
 - 👀 Thanks for visiting! I'm a dev with interests in Mathematics, Cybersecurity, Music (theory?), Physics, and videogames (a big fan of Elden Ring, Dark Souls and Doom 👀)
 - 🌱 The programming languages I'm most familiar with are Java, C++, Bash/Shell scripting, Mainframe Assembly (ALC) & JCL (for z/OS), VB.NET, ASP.NE and some Python
 - That's all =)
